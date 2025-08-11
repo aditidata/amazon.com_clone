@@ -114,6 +114,13 @@ span{
     margin-left: 15px;
 }
 .panel-ops{
+    margin: 5px 0px 6px;
+    padding: 8px 5px;
     width: 70%;
     font-size: 0.85rem;
+}
+.panel-all{
+    width: 10%;
+    margin-right: 0px;
+    padding: 0%;
 }
